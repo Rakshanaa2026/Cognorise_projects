@@ -8,5 +8,7 @@ The dataset is taken from kaggle which contains 31 features to predict whether a
 Again the dataset is taken from kaggle which contains 9 features with 100000 rows to predict whether a person is has diabetes or not.I have used matplotlib libraries to visualize the correlation between the columns and to show the accuracy of each model. I have used Random Forest Classfier as well as K Nearest Neighbours Classifier. Out of which Random Forest Classifier proves to provide more accurate results!
 
 
+# SPAM EMAIL DETECTION
+The dataset is taken from kaggle which contains only 2 columns to predict whether a email is spam or not.I have used TfidfVectorizer to convert the strings and then used logistic regression algorithm to train the model.
 
-If any betterment or clarification ping me!
+If any queries ping me!
